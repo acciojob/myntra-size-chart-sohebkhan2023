@@ -1,2 +1,19 @@
-
-/* Your CSS Code here. */
+.main{
+	border-collapse:collapse;
+	margin:25px 0px;
+	
+}
+.main thead tr{
+	background-color:orange;
+	text-align:left;
+	font-weight:bold;
+	
+}
+.main tr,
+.main td{
+	padding:15px 15px;
+	
+}
+table,th,td{
+	border:1px solid black;
+}
